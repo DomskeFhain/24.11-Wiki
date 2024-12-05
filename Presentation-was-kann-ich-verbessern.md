@@ -1,6 +1,7 @@
 # **`Was kann ich an mein Presentationsskills verbessern?`**
 
 ## **`Was hat mir besonders bei den Präsentationen gefallen?`**
+
  In manchen Presentation waren andere Information die man in der eigenen nicht wiedergegeben hat weil man sie nicht hatte oder vielleicht nicht wichtig fand.
 
 ## **`Was könnte verbessert werden?`**
