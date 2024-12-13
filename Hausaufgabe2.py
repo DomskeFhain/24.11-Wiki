@@ -4,7 +4,7 @@
 Vorname = input("Wie ist dein Vorname: ")
 Nachname = input("Wie ist dein Nachname: ")
 
-print(f"Der Name von dir lautet: ", (Vorname + " " + Nachname ))
+print(f"Der Name von dir lautet: ", (Vorname + " " + Nachname))
 
 Zahl1 = input("Was ist Zahl 1 was addiert werden soll: ")
 Zahl2 = input("Was ist Zahl 2 was addiert werden soll: ")
